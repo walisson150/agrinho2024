@@ -3,9 +3,17 @@ background: color #bcbcbc;;
 }
 
 header{
-background-color:#090909;
+display: flex;
+    background-color:#090909;
 }
 
 footer{
 background-color: #090909;
+}
+
+.cabecalho_imagem{
+width: 200px;
+height: 200px;
+border-radius: 50%;
+
 }
