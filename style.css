@@ -4,7 +4,9 @@ background: color #bcbcbc;;
 
 header{
 display: flex;
-    background-color:#ee0505;
+align-items: center;
+justify-content: space-between;
+background-color:#ee0505;
 }
 
 footer{
