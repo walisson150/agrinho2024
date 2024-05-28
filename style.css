@@ -4,16 +4,18 @@ background: color #bcbcbc;;
 
 header{
 display: flex;
-    background-color:#090909;
+    background-color:#ee0505;
 }
 
 footer{
-background-color: #090909;
+background-color: #ee0505;
 }
 
 .cabecalho_imagem{
 width: 200px;
 height: 200px;
 border-radius: 50%;
+padding: 20px;
+
 
 }
