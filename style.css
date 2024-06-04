@@ -6,11 +6,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #dd70b5;
+    background-color: #ff0000;
     }
     
     footer{
-    background-color: #dd70b5;
+    background-color: #ff0000;
     }
     
     .cabecalho_imagem{
