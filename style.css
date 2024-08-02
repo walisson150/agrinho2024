@@ -49,11 +49,11 @@ align-items: center;
 }
 .elementos__div{
     text-align: center;
-    width: 200px;
-    height:200px ;
+    width: 100px;
+    height:100px ;
 }
 .elementos__imagem{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
 }
