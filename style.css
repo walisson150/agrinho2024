@@ -50,10 +50,10 @@ align-items: center;
 .elementos__div{
     text-align: center;
     width: 300px;
-    height:400px ;
+    height:300px ;
 }
 .elementos__imagem{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 10px;
 }
